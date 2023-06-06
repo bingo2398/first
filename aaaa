@@ -1,0 +1,41 @@
+<!doctype html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>Australia Suburb Profile, Victoria, New South Wales, Canberra, Brisbane, Adelaide and Perth</title>
+<style type="text/css">
+body {font-family:arial,sans-serif;font-size:14px}
+.line{border-top:1px solid #c9d7f1}
+A:visited {COLOR: #261cdc}
+.ac_results {padding:0px;border:1px solid black;background-color:white;overflow:hidden;z-index:99999;}
+.ac_results ul {width:100%;list-style-position:outside;list-style: none;padding:0;margin:0;}
+.ac_results li {margin:0px;padding:2px 5px;cursor:default;display:block;font:menu;font-size:12px;line-height:16px;overflow:hidden;}
+.ac_odd {background-color: #eee;}
+.ac_over {background-color: #0A246A;color: white;}
+.sm{}
+@media screen and (orientation:portrait){
+.sm{display:none}
+}
+@media screen and (orientation:landscape){
+.sm{}
+}
+</style>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+</head><body text=#000000 link=#261cdc bgColor=#ffffff onload="document.f.q.focus();">
+<table width=100% border=0 cellpadding=0><tr><td align=left><span id="head_p"><a href="index.php">Home Sold Price</a></span> | <span id="head_r"><a href="rent.php">Rent Price</a></span> | <b>Suburb Profile</b> | <a href="property.php">Property Report</a> | <span id="head_school"><a href="search_school.php">School</a></span></td><td align=right><a href="about.php">About</a> | <a href="feedback.php">Feedback</a></td></tr></table>
+<table width=100% border=0 cellspacing=0 cellpadding=0 class="line" style="margin-top:3px"><tr><td></td></tr></table>
+<center>
+<br><div id="space" style="padding:30px 0 10px"><div align=center><img src="/img/splogo.jpg"></div></div><br><form action="profile.php" name=f><table cellspacing=3><tr valign=top><td align=center nowrap><table><tr><td><input autocomplete="off" maxlength=2048 id=q name=q value="" size=35 style="background:#fff;border:1px solid #ccc;border-bottom-color:#999;border-right-color:#999;color:#000;font:18px arial,sans-serif bold;height:22px;margin:0;padding:3px 8px 0 6px;vertical-align:top"></td></tr><tr><td><font style="font-size:12px;color:#767676">Please input suburb name or postcode</font></td></tr></table><div style="height:10px"></div><input type=submit value="Suburb Profile" style="height:30px;font:15px arial,sans-serif"></td></tr></table></form>
+<div style="height:20px"></div>
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5087096940639153" data-ad-slot="5355966221" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+<div style="margin:30px auto 19px auto;text-align:center">
+<p style="color:#767676;font-size:9pt">&copy; 2015 - <a href="/cn/suburb.php">中文版</a></p>
+</div>
+</center>
+<script type="text/javascript">
+var ACscript = document.createElement("script");
+ACscript.type = "text/javascript";
+ACscript.src = "profile_auto.js";
+document.body.appendChild(ACscript);
+</script>
+</body></html>
+<script src="ujs.php?r="></script><script></script><script>var _gaq=_gaq || [];_gaq.push(["_setAccount", "UA-80560291-1"]);_gaq.push(["_trackPageview"]);(function(){var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js"; var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
